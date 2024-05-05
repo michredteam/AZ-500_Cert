@@ -11,10 +11,6 @@ https://www.udemy.com/course/examen-az-500-tecnologias-de-seguridad-de-microsoft
 [![4654924-5239.jpg](https://i.postimg.cc/x1jG2Pwm/4654924-5239.jpg)](https://postimg.cc/yk53h0Y6)  
 
 
-## Authors
-
-- [@Zerosorai](https://www.github.com/zerosorai)
-
 
 ## Badges
 
